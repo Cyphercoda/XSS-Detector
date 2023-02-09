@@ -1,0 +1,13 @@
+<script>
+<SCRIPT>
+</script>
+</SCRIPT>
+<script src=
+<script type=
+<SCRIPT SRC=
+<SCRIPT TYPE=
+javascript:
+vbscript:
+data:
+expression(
+script
